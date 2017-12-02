@@ -1,0 +1,2 @@
+# epubnav
+Epub pages navigator
